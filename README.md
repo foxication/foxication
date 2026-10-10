@@ -19,7 +19,7 @@ Here are some of the technologies and tools I’ve been working with:
 ![Rust Badge](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Bevy Badge](https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=fff)
 
-## 🤝 Connect with Me
+## My Contacts
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myreevlyme@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/someone131)
